@@ -1,0 +1,22 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Customer name: X
+Invoice number: 3948
+Date of purchase: 22/04/2023
+
+
+Laptop Model | Brand Name   | Price        | Qty          | Total       
+======================================================================
+XPS          |  Dell        |  $1976       | 3            |  $5928      
+
+                                             Sub total:  $5928
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $6061.9728
+
+
+Thank you for your purchase.
+In case of any problem, track your order using X_22/04/2023_3948

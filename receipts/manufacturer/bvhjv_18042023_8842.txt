@@ -1,0 +1,23 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Sold by: bvhjv
+Invoice number: 8842
+Date of purchase: 18/04/2023
+
+
++----------------+--------------+---------+------------+----------+
+| Laptop Model   | Brand Name   | Price   |   Quantity | Total    |
++================+==============+=========+============+==========+
+| XPS            | Dell         | $1976   |       -100 | $-197600 |
++----------------+--------------+---------+------------+----------+
+                                             Sub total:  $-197600
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $-202065.76
+
+
+Thank you for your purchase.
+In case of any problem, track your order using bvhjv_18/04/2023_8842

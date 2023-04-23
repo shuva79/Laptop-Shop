@@ -1,0 +1,19 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Sold by: X
+Invoice number: 9434
+Date of purchase: 21/04/2023
+
+
+None
+                                             Sub total:  $3952
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $4041.3152
+
+
+Thank you for your purchase.
+In case of any problem, track your order using X_21/04/2023_9434

@@ -1,0 +1,24 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Customer name: XPP
+Invoice number: 5225
+Date of purchase: 22/04/2023
+
+
+Laptop Model | Brand Name   | Price        | Qty          | Total       
+======================================================================
+XPS          |  Dell        |  $1976       | 1            |  $1976      
+Alienware    |  Alienware   |  $1978       | 2            |  $3956      
+XPS          |  Dell        |  $1976       | 2            |  $3952      
+
+                                             Sub total:  $9884
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $10107.3784
+
+
+Thank you for your purchase.
+In case of any problem, track your order using XPP_22/04/2023_5225

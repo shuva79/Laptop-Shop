@@ -1,0 +1,23 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Sold by: XX0
+Invoice number: 8109
+Date of purchase: 14/04/2023
+
+
++----------------+--------------+---------+------------+---------+
+| Laptop Model   | Brand Name   | Price   |   Quantity | Total   |
++================+==============+=========+============+=========+
+| XPS            | Dell         | $1976   |          1 | $1976   |
++----------------+--------------+---------+------------+---------+
+                                             Sub total:  $1976
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $2020.6576
+
+
+Thank you for your purchase.
+In case of any problem, track your order using XX0_14/04/2023_8109

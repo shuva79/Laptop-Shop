@@ -1,0 +1,24 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Customer name: SSS
+Invoice number: 5283
+Date of purchase: 22/04/2023
+
+
+Laptop Model | Brand Name   | Price        | Qty          | Total       
+======================================================================
+XPS          |  Dell        |  $1976       | 1            |  $1976      
+Razer Blade  |  Razer       |  $2000       | 2            |  $4000      
+Alienware    |  Alienware   |  $1978       | 2            |  $3956      
+
+                                             Sub total:  $9932
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $10156.4632
+
+
+Thank you for your purchase.
+In case of any problem, track your order using SSS_22/04/2023_5283

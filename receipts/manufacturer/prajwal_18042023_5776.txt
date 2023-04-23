@@ -1,0 +1,23 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Sold by: prajwal
+Invoice number: 5776
+Date of purchase: 18/04/2023
+
+
++----------------+--------------+---------+------------+---------+
+| Laptop Model   | Brand Name   | Price   |   Quantity | Total   |
++================+==============+=========+============+=========+
+| XPS            | Dell         | $1976   |         14 | $27664  |
++----------------+--------------+---------+------------+---------+
+                                             Sub total:  $27664
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $28289.2064
+
+
+Thank you for your purchase.
+In case of any problem, track your order using prajwal_18/04/2023_5776

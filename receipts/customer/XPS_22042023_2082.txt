@@ -1,0 +1,21 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Customer name: XPS
+Invoice number: 2082
+Date of purchase: 22/04/2023
+
+
+
+
+
+                                             Sub total:  $0
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $0.0
+
+
+Thank you for your purchase.
+In case of any problem, track your order using XPS_22/04/2023_2082

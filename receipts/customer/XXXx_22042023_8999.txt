@@ -1,0 +1,24 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Customer name: XXXx
+Invoice number: 8999
+Date of purchase: 22/04/2023
+
+
+Laptop Model | Brand Name   | Price        | Qty          | Total       
+======================================================================
+XPS          |  Dell        |  $1976       | 2            |  $3952      
+Alienware    |  Alienware   |  $1978       | 2            |  $3956      
+Razer Blade  |  Razer       |  $2000       | 2            |  $4000      
+
+                                             Sub total:  $11908
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $12177.1208
+
+
+Thank you for your purchase.
+In case of any problem, track your order using XXXx_22/04/2023_8999

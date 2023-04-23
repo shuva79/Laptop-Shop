@@ -1,0 +1,22 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Customer name: XPS
+Invoice number: 6571
+Date of purchase: 22/04/2023
+
+
+Laptop Model | Brand Name   | Price        | Qty          | Total       
+======================================================================
+XPS          |  Dell        |  $1976       | 2            |  $3952      
+
+                                             Sub total:  $3952
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $4041.3152
+
+
+Thank you for your purchase.
+In case of any problem, track your order using XPS_22/04/2023_6571

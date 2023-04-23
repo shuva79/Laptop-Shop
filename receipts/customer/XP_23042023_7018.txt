@@ -1,0 +1,22 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Customer name: XP
+Invoice number: 7018
+Date of purchase: 23/04/2023
+
+
+Laptop Model | Brand Name   | Price        | Qty          | Total       
+======================================================================
+Legion       |  Lenovo      |  $1000       | 2            |  $2000      
+
+                                             Sub total:  $2000
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $2045.2
+
+
+Thank you for your purchase.
+In case of any problem, track your order using XP_23/04/2023_7018

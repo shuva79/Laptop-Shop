@@ -1,0 +1,23 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Customer name: Shuva
+Invoice number: 5550
+Date of purchase: 23/04/2023
+
+
+Laptop Model | Brand Name   | Price        | Qty          | Total       
+======================================================================
+XPS          |  Dell        |  $1976       | 2            |  $3952      
+Alienware    |  Alienware   |  $1978       | 1            |  $1978      
+
+                                             Sub total:  $5930
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $6064.018
+
+
+Thank you for your purchase.
+In case of any problem, track your order using Shuva_23/04/2023_5550

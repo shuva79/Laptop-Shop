@@ -1,0 +1,24 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Customer name: XP
+Invoice number: 5831
+Date of purchase: 22/04/2023
+
+
+Laptop Model | Brand Name   | Price        | Qty          | Total       
+======================================================================
+XPS          |  Dell        |  $1976       | 2            |  $3952      
+Razer Blade  |  Razer       |  $2000       | 2            |  $4000      
+XPS          |  Dell        |  $1976       | 1            |  $1976      
+
+                                             Sub total:  $9928
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $10152.3728
+
+
+Thank you for your purchase.
+In case of any problem, track your order using XP_22/04/2023_5831

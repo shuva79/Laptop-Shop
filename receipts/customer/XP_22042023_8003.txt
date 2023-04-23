@@ -1,0 +1,22 @@
+
+        =======================================================
+                            Invoice
+        =======================================================
+    
+Customer name: XP
+Invoice number: 8003
+Date of purchase: 22/04/2023
+
+
+Laptop Model | Brand Name   | Price        | Qty          | Total       
+======================================================================
+XPS          |  Dell        |  $1976       | 1            |  $1976      
+
+                                             Sub total:  $1976
+                                                   VAT:	  13%  
+                                       Delivery charge:   2%
+                                           Grand total:  $2020.6576
+
+
+Thank you for your purchase.
+In case of any problem, track your order using XP_22/04/2023_8003
